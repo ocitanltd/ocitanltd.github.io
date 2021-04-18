@@ -1,3 +1,4 @@
+google.com, pub-9622283601595408, DIRECT, f08c47fec0942fa0
 facebook.com, 489115135282743, RESELLER, c3e20eee3f780d68
 unity.com, 1722129, DIRECT, 96cabb5fbdde37a7
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
